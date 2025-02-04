@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetanswaroop07
-- 👀 I’m interested in a career in data science and machine learning
-- 🌱 I’m currently pursuing Post Graduate Program in Data Science and Business Analytics from Great Learning in collaboration with Great Lakes institute of Management and University of Texas at Austin
+- 👀 I’m working as a Data Scientist with Ford Motors Private Limited specializing in Web & eCommerce Analytics.
+- 🌱 I have completed my Post Graduate Program in Data Science and Business Analytics from Great Learning in collaboration with Great Lakes institute of Management and University of Texas at Austin
 - 💞️ I’m looking to collaborate on Machine Learning & Data Science projects
 - 📫 You can reach me on chetanswaroop07@gmail.com
 
